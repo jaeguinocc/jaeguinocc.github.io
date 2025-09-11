@@ -165,14 +165,14 @@
     "date": 250915,
     "name": "이재귄",
     "category": "당직",
-    "meYn": "N",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
     "date": 250916,
     "name": "ㅇㅅㅈ",
     "category": "당직",
-    "meYn": "Y",
+    "meYn": "N",
     "holidayYn": "N"
   },
   {
@@ -495,3 +495,4 @@
   }
 
 ]
+
