@@ -261,14 +261,14 @@
   },
   {
     "date": 250929,
-    "name": "ㅇㅇㅎ",
+    "name": "이재귄",
     "category": "당직",
-    "meYn": "N",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
     "date": 250930,
-    "name": "ㅇㅇㅅ",
+    "name": "ㅇㅇㅎ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
@@ -278,7 +278,7 @@
 
   {
     "date": 251001,
-    "name": "ㄱㅈㅅ",
+    "name": "ㅇㅇㅅ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
@@ -334,14 +334,14 @@
   },
   {
     "date": 251009,
-    "name": "ㅇㅇㅅ",
+    "name": "ㅇㅅㅈ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
   },
   {
     "date": 251010,
-    "name": "ㅇㅅㅈ",
+    "name": "ㄱㅈㅅ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
@@ -369,9 +369,9 @@
   },
   {
     "date": 251014,
-    "name": "ㅇㅇㅅ",
+    "name": "이재귄",
     "category": "당직",
-    "meYn": "N",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -383,16 +383,16 @@
   },
   {
     "date": 251016,
-    "name": "ㅇㅅㅈ",
+    "name": "ㅇㅇㅅ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
   },
   {
     "date": 251017,
-    "name": "이재귄",
+    "name": "ㅇㅅㅈ",
     "category": "당직",
-    "meYn": "Y",
+    "meYn": "N",
     "holidayYn": "N"
   },
   {
@@ -411,14 +411,14 @@
   },
   {
     "date": 251020,
-    "name": "ㅇㅇㅅ",
+    "name": "ㅇㅇㅎ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
   },
   {
     "date": 251021,
-    "name": "ㄱㅈㅅ",
+    "name": "ㅇㅇㅅ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
@@ -432,16 +432,16 @@
   },
   {
     "date": 251023,
-    "name": "이재귄",
+    "name": "ㅇㅅㅈ",
     "category": "당직",
-    "meYn": "Y",
+    "meYn": "N",
     "holidayYn": "N"
   },
   {
     "date": 251024,
-    "name": "ㅇㅇㅎ",
+    "name": "이재귄",
     "category": "당직",
-    "meYn": "N",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -467,32 +467,33 @@
   },
   {
     "date": 251028,
-    "name": "ㅇㅅㅈ",
+    "name": "ㅇㅇㅅ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
   },
   {
     "date": 251029,
+    "name": "ㅇㅅㅈ",
+    "category": "당직",
+    "meYn": "N",
+    "holidayYn": "N"
+  },
+  {
+    "date": 251030,
     "name": "이재귄",
     "category": "당직",
     "meYn": "Y",
     "holidayYn": "N"
   },
   {
-    "date": 251030,
-    "name": "ㅇㅇㅎ",
-    "category": "당직",
-    "meYn": "N",
-    "holidayYn": "N"
-  },
-  {
     "date": 251031,
-    "name": "ㅇㅇㅅ",
+    "name": "ㅇㅇㅎ",
     "category": "당직",
     "meYn": "N",
     "holidayYn": "N"
   }
 
 ]
+
 
