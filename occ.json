@@ -460,9 +460,9 @@
   },
   {
     "date": 251027,
-    "name": "ㄱㅈㅅ",
+    "name": "이재귄",
     "category": "당직",
-    "meYn": "N",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -481,9 +481,9 @@
   },
   {
     "date": 251030,
-    "name": "이재귄",
+    "name": "ㄱㅈㅅ",
     "category": "당직",
-    "meYn": "Y",
+    "meYn": "N",
     "holidayYn": "N"
   },
   {
@@ -495,5 +495,6 @@
   }
 
 ]
+
 
 
