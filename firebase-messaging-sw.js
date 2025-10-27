@@ -31,7 +31,8 @@ messaging.onBackgroundMessage((payload) => {
   const notificationTitle = payload.notification.title;
   const notificationOptions = {
     body: payload.notification.body,
-    icon: '/icon.png'
+    //icon: '/icon.png'
+    icon: 'https://jaeguinocc.github.io/icon.png' // 절대 URL 사용 권장
   };
 
   self.registration.showNotification(notificationTitle, notificationOptions);
