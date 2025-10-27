@@ -671,7 +671,9 @@
   },
   {
     "date": 251125,
-    "name": "이재귄",     "category": "당직",     "meYn": "Y",
+    "name": "이재귄",
+    "category": "당직",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -728,7 +730,9 @@
   },
   {
     "date": 251203,
-    "name": "이재귄",     "category": "당직",     "meYn": "Y",
+    "name": "이재귄",
+    "category": "당직",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -754,7 +758,9 @@
   },
   {
     "date": 251207,
-    "name": "이재귄",     "category": "당직",     "meYn": "Y",
+    "name": "이재귄",
+    "category": "당직",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -780,7 +786,9 @@
   },
   {
     "date": 251211,
-    "name": "이재귄",     "category": "당직",     "meYn": "Y",
+    "name": "이재귄",
+    "category": "당직",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -834,7 +842,9 @@
   },
   {
     "date": 251219,
-    "name": "이재귄",     "category": "당직",     "meYn": "Y",
+    "name": "이재귄",
+    "category": "당직",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -909,7 +919,9 @@
   },
   {
     "date": 251230,
-    "name": "이재귄",     "category": "당직",     "meYn": "Y",
+    "name": "이재귄",
+    "category": "당직",
+    "meYn": "Y",
     "holidayYn": "N"
   },
   {
@@ -921,6 +933,7 @@
   }
 
 ]
+
 
 
 
