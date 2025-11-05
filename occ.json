@@ -68,13 +68,15 @@
   {"date": 251029, "name": "ㅇㅅㅈ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251030, "name": "ㄱㅈㅅ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251031, "name": "ㅇㅇㅎ", "category": "당직", "meYn": "N", "holidayYn": "N"},
+
+  
   {"date": 251101, "name": "", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251102, "name": "ㅇㅇㅎ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251103, "name": "ㅇㅇㅅ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251104, "name": "ㅈㅎㅇ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251105, "name": "ㄱㅈㅅ", "category": "당직", "meYn": "N", "holidayYn": "N"},
-  {"date": 251106, "name": "ㅇㅅㅈ", "category": "당직", "meYn": "N", "holidayYn": "N"},
-  {"date": 251107, "name": "이재귄", "category": "당직", "meYn": "Y", "holidayYn": "N"},
+  {"date": 251106, "name": "이재귄", "category": "당직", "meYn": "Y", "holidayYn": "N"},
+  {"date": 251107, "name": "ㅇㅇㅎ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251108, "name": "", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251109, "name": "ㅇㅇㅅ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251110, "name": "ㅇㅇㅎ", "category": "당직", "meYn": "N", "holidayYn": "N"},
@@ -98,6 +100,8 @@
   {"date": 251128, "name": "ㅈㅎㅇ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251129, "name": "", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251130, "name": "ㅇㅅㅈ", "category": "당직", "meYn": "N", "holidayYn": "N"},
+
+  
   {"date": 251201, "name": "ㄱㅈㅅ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251202, "name": "ㅇㅅㅈ", "category": "당직", "meYn": "N", "holidayYn": "N"},
   {"date": 251203, "name": "이재귄", "category": "당직", "meYn": "Y", "holidayYn": "N"},
@@ -131,3 +135,4 @@
   {"date": 251231, "name": "ㅇㅇㅎ", "category": "당직", "meYn": "N", "holidayYn": "N"}
 
 ]
+
