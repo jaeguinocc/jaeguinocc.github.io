@@ -34,5 +34,6 @@ messaging.onBackgroundMessage((payload) => {
     icon: '/icon.png'
   };
 
-  self.registration.showNotification(notificationTitle, notificationOptions);
+  //중복 알림 원인같아서 일단 지움.
+  //self.registration.showNotification(notificationTitle, notificationOptions);
 });
